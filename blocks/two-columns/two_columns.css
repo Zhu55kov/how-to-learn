@@ -1,0 +1,8 @@
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    line-height: 34px;
+    margin: 100px auto 0;
+    width: 80%;
+  }

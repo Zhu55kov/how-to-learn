@@ -1,0 +1,11 @@
+.video__iframe {
+  margin: 0;
+  padding: 0;
+  transition: opacity 1s, visibility 1s, transform 1s ease-in-out;
+}
+
+.video__iframe:hover {
+  opacity: .3;
+  visibility: .3;
+  transition: opacity 1s, visibility 1s, transform 1s ease-in-out;
+}

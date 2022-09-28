@@ -1,0 +1,15 @@
+.table {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 1100px;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  z-index: 1;
+  text-align: center;
+}

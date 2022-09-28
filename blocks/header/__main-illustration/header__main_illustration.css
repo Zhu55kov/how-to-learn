@@ -1,0 +1,10 @@
+.header__main-illustration {
+    width: 765px;
+    height: 608px;
+    display: flex;
+    object-fit: cover;
+    justify-content: end;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
