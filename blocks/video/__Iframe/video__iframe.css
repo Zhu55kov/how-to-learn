@@ -1,8 +1,8 @@
 .video__iframe {
   margin: 0;
   padding: 0;
-  width: 515;
-  height: 316;
+  width: 515px;
+  height: 316px;
   border: none;
   transition: opacity 1s, visibility 1s, transform 1s ease-in-out;
 }
