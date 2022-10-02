@@ -7,12 +7,6 @@
   }
 }
 
-.kaufman__triangle {
-  animation: rotation 20s linear infinite;
-}
-
-/* или лучше перечислить класссы кауфман__трайэнгл и хэдер__скуэр-пик через запятую но в одном? */
-
-.header__square-pic {
+.rotation {
   animation: rotation 20s linear infinite;
 }
